@@ -22,3 +22,22 @@ just ask it.
 const total = multiply(price, quantity);
 
 console.log(total.why());
+```
+vellix answer --->
+
+```
+Price (100)
+
+↓
+
+Quantity (2)
+
+↓
+
+Multiply
+
+↓
+
+Total (200)
+
+```
