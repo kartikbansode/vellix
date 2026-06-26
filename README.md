@@ -3,7 +3,10 @@
 > Stop debugging.
 > Start asking your code why.
 
+> Status: Early Development
+
 Vellix is an Explainability Runtime.
+
 
 Every value knows:
 
