@@ -1,0 +1,20 @@
+{
+  "name": "vellix",
+  "private": true,
+  "version": "0.0.1",
+  "description": "The Explainability Engine for Software.",
+  "license": "MIT",
+  "packageManager": "pnpm@10",
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "test": "turbo test",
+    "lint": "turbo lint",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "turbo": "^2.0.0",
+    "typescript": "^5.8.0",
+    "prettier": "^3.5.0"
+  }
+}
